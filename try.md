@@ -4,6 +4,8 @@ title: 公共工具新增基因组相关工具(2)
 date: 2016-10-20
 author: GeneDock
 ---
+公共工具新增基因组相关工具（2）
+日期：2061020
 
 主要更新：
 - 8个picard相关工具：Picard_CollectAlignmentSummaryMetrics、Picard_CollectHsMetrics、Picard_CollectRnaSeqMetrics、Picard_CollectRnaSeqMetrics、Picard_CreateSequenceDictionary、Picard_MarkDuplicates和Picard_SortSam。
